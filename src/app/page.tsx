@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import HeroSplit from '@/components/sections/hero/HeroSplit';
@@ -150,8 +150,7 @@ export default function Home() {
               company: "Motorsport Club",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763460197957-qcxocft6.jpg",
-              imageAlt: "Marcus Johnson",
-              testimonial: "Formula 1 represents the ultimate in motorsport technology and excitement. Every race is a masterclass in precision and speed."
+              imageAlt: "Marcus Johnson"
             },
             {
               id: "2",
@@ -160,8 +159,7 @@ export default function Home() {
               company: "Speed Magazine",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763460201086-k8v8hbup.jpg",
-              imageAlt: "Elena Vasquez",
-              testimonial: "The engineering brilliance behind F1 cars is absolutely incredible. It's automotive technology at its finest."
+              imageAlt: "Elena Vasquez"
             },
             {
               id: "3",
@@ -170,8 +168,7 @@ export default function Home() {
               company: "Racing Heritage",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763460202773-nazuap2s.jpg",
-              imageAlt: "David Kim",
-              testimonial: "Working on F1 cars taught me that perfection is the only acceptable standard. Every detail matters at this level."
+              imageAlt: "David Kim"
             },
             {
               id: "4",
@@ -180,8 +177,7 @@ export default function Home() {
               company: "Professional Driver",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763460211226-pr61l9fh.jpg",
-              imageAlt: "Sophie Laurent",
-              testimonial: "F1 represents the pinnacle of racing. The skill, technology, and teamwork required is unmatched in any other sport."
+              imageAlt: "Sophie Laurent"
             },
             {
               id: "5",
@@ -190,8 +186,7 @@ export default function Home() {
               company: "Sports Broadcasting",
               rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/uploaded-1763460212465-hc4fdpqc.jpg",
-              imageAlt: "James Wilson",
-              testimonial: "Every F1 race is a spectacle of human achievement and technological excellence. It never gets old."
+              imageAlt: "James Wilson"
             }
           ]}
         />
